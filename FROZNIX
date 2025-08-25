@@ -1,0 +1,36 @@
+FROZNIX-AI
+
+Smart & Lightweight AI Project
+
+📌 About
+
+FROZNIX-AI ek AI-based project hai jo fast, simple aur efficient solution dene ke liye design kiya gaya hai.
+Iska goal hai easy integration aur powerful features provide karna bina heavy system resources use kiye.
+
+🚀 Features
+
+Fast & lightweight performance
+
+Easy-to-use interface
+
+Cross-platform support
+
+Open-source for developers
+
+🛠 Installation
+git clone https://github.com/tausif-raza786/FROZNIX-AI.git
+cd FROZNIX-AI
+
+📖 Usage
+python main.py
+
+
+(Example usage ya instructions yahan dalna jo tumhare project ke liye relevant ho)
+
+🤝 Contributing
+
+Agar aap contribute karna chahte hain, toh repo fork kijiye aur pull request bhejiye.
+
+📜 License
+
+This project is licensed under the MIT License
